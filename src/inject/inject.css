@@ -1,0 +1,8 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+
+.list-card-edit-title,
+  .js-edit-card-title {
+  -background-color: cyan !important;
+}
